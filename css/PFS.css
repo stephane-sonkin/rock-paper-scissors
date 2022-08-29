@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    margin-left: 400px;
+}
+
+.leftSide, .rightSide{
+    display: inline;
+    float: left;
+}
+
+.rightSide{
+    margin-left: 300px;
+}
+
+button{
+    display: block;
+    margin-top: 15px;
+}
